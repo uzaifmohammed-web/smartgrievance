@@ -1,0 +1,1 @@
+{\n  "name": "smartgrievance-backend",\n  "version": "1.0.0",\n  "description": "Backend for Smart Grievance System",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongodb": "^3.6.4",\n    "jsonwebtoken": "^8.5.1",\n    "dotenv": "^8.2.0"\n  },\n  "author": "",\n  "license": "ISC"\n}
